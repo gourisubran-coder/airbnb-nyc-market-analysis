@@ -70,7 +70,7 @@ These insights are based on descriptive analysis of listing-level data. Listing 
 
 ### 1. Dashboard Overview
 ![Airbnb NYC Dashboard](screenshots/AIRBNB_DASHBOARD.png)
-![Airbnb NYC Dashboard](screenshots/AIRBNB'S_DASHBOARD.png)
+
 ### 2.Tableau Story
 ![Stories](screenshots/AIRBNB_STORY.png)
 ![Stories](screenshots/Avg_price_by_neighbhourhood.png)
