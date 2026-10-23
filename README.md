@@ -69,17 +69,17 @@ These insights are based on descriptive analysis of listing-level data. Listing 
 ## 🖼️ Dashboard Preview
 
 ### 1. Dashboard Overview
-![Airbnb NYC Dashboard](screenshots/AIRBNB DASHBOARD.png)
+![Airbnb NYC Dashboard](screenshots/AIRBNB_DASHBOARD.png)
 
 ### 2.Tableau Story
-![Stories](screenshots/AIRBNB STORY.png)
-![Stories](screenshots/Avg price by neighbhourhood.png)
+![Stories](screenshots/AIRBNB_STORY.png)
+![Stories](screenshots/Avg_price_by_neighbhourhood.png)
 ![Stories](screenshots/Heatmap.png)
-![Stories](screenshots/RoomType & availability.png)
+![Stories](screenshots/RoomType_&_availability.png)
 
 ### 3. Price Analysis
-![Airbnb Price Analysis](screenshots/Price Distribution.png)
-![Airbnb Avg Price Analysis](screenshots/Avg Price by Room.png)
+![Airbnb Price Analysis](screenshots/Price_Distribution.png)
+![Airbnb Avg Price Analysis](screenshots/Avg_Price_by_Room.png)
 
 ## 💡 Key Learning Outcomes
 
